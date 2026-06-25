@@ -28,12 +28,6 @@ A deep learning-based web application that detects Sickle Cell disease from bloo
 - mobilenet_weights.weights.h5 → trained model
 - requirements.txt → dependencies
 
-## 📦 Installation
-```bash
-pip install -r requirements.txt
-
----
-
 ## 📊 Results
 🔬 5-Fold Cross Validation Results
 
@@ -87,7 +81,16 @@ This model demonstrates strong generalization ability and is suitable for assist
 ---
 
 ## ▶️ Run Locally
-
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+
+## 📦 Installation
+```bash
+pip install -r requirements.txt
+
+---
+
+
+
