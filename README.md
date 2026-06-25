@@ -36,6 +36,6 @@ pip install -r requirements.txt
 ## 📊 Results
 ### Output Example
 ### Normal Case Output
-![Normal Prediction](images/normal.png)
+![Normal Prediction](images/normal cell.png)
 ### Sickle Cell Prediction
-![Sickle Cell Prediction](images/sickle.png)
+![Sickle Cell Prediction](images/sickle cell.png)
