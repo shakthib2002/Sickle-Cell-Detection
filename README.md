@@ -32,10 +32,29 @@ A deep learning-based web application that detects Sickle Cell disease from bloo
 ```bash
 pip install -r requirements.txt
 
+---
 
 ## 📊 Results
-### Output Example
 ### Normal Case Output
 ![Normal Prediction](images/normal cell.png)
 ### Sickle Cell Prediction
 ![Sickle Cell Prediction](images/sickle cell.png)
+
+
+---
+
+## 🖼 Results
+
+### Normal Cell Prediction
+![Normal Cell](images/normal.png)
+
+### Sickle Cell Prediction
+![Sickle Cell](images/sickle.png)
+
+---
+
+## ▶️ Run Locally
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
